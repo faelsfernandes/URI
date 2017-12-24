@@ -6,6 +6,7 @@ then
 	exit 1
 fi
 git commit -am "Exercício Resolvido"
+git pull
 echo "Adicionado com sucesso!"
 
 exit 1
