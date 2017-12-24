@@ -5,8 +5,10 @@ then
 	echo "Erro ao adicionar atualizar"
 	exit 1
 fi
-git commit -am "Exerc√≠cio Resolvido"
+git commit -am "Exercício Resolvido"
 git pull
+faelsfernandes
+Fernandes5672
 echo "Adicionado com sucesso!"
 
 exit 1
