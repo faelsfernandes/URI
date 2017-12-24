@@ -2,7 +2,7 @@
 echo "Adicionando arquivos..."
 if ! git add $1
 then 
-	echo "Erro au atualizar"
+	echo "Erro ao adicionar atualizar"
 	exit 1
 fi
 git commit -am "Exercício Resolvido"
