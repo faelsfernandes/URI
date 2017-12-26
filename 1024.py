@@ -9,5 +9,6 @@ if len(texto) > 1:
 	
 for i in range(int(len(texto)/2), len(texto)):
 			texto[i] = chr(ord(texto[i])-1)	
+
 texto = "".join(texto)
 print(texto)
