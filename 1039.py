@@ -6,3 +6,4 @@ while True:
 		print("RICO" if r1 >= distancia + r2 else "MORTO")
 	except EOFError:
 		break
+		
